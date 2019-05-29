@@ -1,0 +1,12 @@
+xcassets:
+  inputs:
+    - ColorKit/Catalogs/iOSColors.xcassets
+    - ColorKit/Catalogs/Flat.xcassets
+    - ColorKit/Catalogs/iOS.xcassets
+    - ColorKit/Catalogs/Material.xcassets
+    - ColorKit/Catalogs/Solarized.xcassets
+    - ColorKit/Catalogs/Tango.xcassets
+    - ColorKit/Catalogs/WP8.xcassets
+  outputs:
+    - templateName: swift4
+      output: ColorKit/Model/SwiftGen.generated.swift
